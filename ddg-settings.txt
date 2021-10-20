@@ -1,0 +1,3 @@
+The following url contains my settings parameterized in the query string.
+
+https://duckduckgo.com/settings?kae=t&kax=-1&kap=-1&kak=-1&kay=b&kw=n&kc=-1&kat=-1&kaq=-1&kau=-1&k5=1&kbc=1&k1=-1&k7=282C34&k9=58a0d8&kaf=-1&kx=545d68&k21=252931&km=m&kaa=9b76ed&kf=-1&kj=1c2431
